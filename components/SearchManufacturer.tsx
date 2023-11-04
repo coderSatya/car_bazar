@@ -15,6 +15,7 @@ const SearchManufacturer = ({manufacturer, setManufacturer}:SearchManufacturerPr
             className="ml-4"
             alt="Car logo"
             />
+            
             </Combobox.Button> 
         </div>
       </Combobox>
